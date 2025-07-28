@@ -2,7 +2,7 @@
 
 **THE CHALLENGE**
 * **Hardware Dependency:** 60 live channels running on dedicated HP Moonshot blades (one per channel) with zero redundancy; hardware failures and accidental cable pulls taking channels offline for 6+ hours
-* **Operational Chaos:** Manual JSON configurations (1000+ lines) with no source control; copy-pasting configs causing viral bug propagation; no real metrics beyond "customer complaint = outage"
+* **Operational Chaos:** Manual JSON configurations (1000+ lines per channel) with no source control; copy-pasting configs causing viral bug propagation; no real metrics beyond "customer complaint = outage"
 * **Platform Instability:** Windows services with memory-mapped files; legacy ASP.NET with five deployed forks of unknown pedigree; no tracing ("too slow"); NBC Sports and Turner frequently angry about outages
 * **Cultural Dysfunction:** 35 engineers with broad lack of engagement; engineering teams resisted live-site responsibility; Las Vegas ops team treated as second-class citizens
 * **Business Risk:** March Madness success frequently dependent on personal heroics; platform not commercially viable beyond keeping existing customers minimally satisfied
