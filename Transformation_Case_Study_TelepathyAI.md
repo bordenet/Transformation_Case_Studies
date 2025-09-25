@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-Led complex international engineering transformation across Singapore/Zurich offices while navigating difficult business relationship between Telepathy.AI and StellaAutomotive.com. Made strategic decision to sunset 18-month proprietary AI investment in favor of modern LLM solutions, transforming operational chaos into systematic excellence across distributed 70-engineer organization while achieving $500K annual cost savings and 99.9% uptime.
+Directed a complex international engineering transformation across **Singapore and Zurich** while managing challenging business dynamics between **Telepathy.AI** and its strategic customer, **StellaAutomotive.com**. Guided the **sunset of a six-year proprietary conversational AI stack** in favor of a modern **OpenAI-based LLM architecture**, transforming fragmented operations into a unified, resilient engineering organization. Results included **$500K annual cost savings**, **99.9% uptime**, and the ability to scale from **120K to 340K calls per month** across a distributed **70-engineer workforce**.
 
 ## Strategic Challenge
 
