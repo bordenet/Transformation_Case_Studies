@@ -2,3 +2,9 @@
 .github/instructions/codacy.instructions.md
 
 .claude
+
+# Analysis and review documents
+ANALYSIS_*.md
+REVIEW_*.md
+ACTION_PLAN_*.md
+EXECUTION_PLAN.md

@@ -3,9 +3,9 @@
 
 ## Executive Summary
 
-Led comprehensive transformation of fragile early-stage streaming platform into enterprise-grade solution that enabled Warner Bros. Discovery acquisition. Rebuilt technical architecture, organizational culture, and operational excellence across 35-engineer organization while scaling from dozens to hundreds of live events monthly and achieving 99.99% uptime.
+Rebuilt fragile early-stage streaming platform into enterprise-grade solution. Transformed technical architecture, organizational culture, and operational excellence across 35-engineer organization while scaling from dozens to hundreds of live events monthly and achieving 99.99% uptime. Platform was selected as go-forward technology for Warner Bros. Discovery acquisition.
 
-## Strategic Challenge
+## The Problem
 
 **Technical Fragility:** Hardware-dependent platform with 60 live channels running on dedicated HP Moonshot blades, zero redundancy, and manual JSON configurations causing viral bug propagation across customer channels.
 
@@ -15,26 +15,26 @@ Led comprehensive transformation of fragile early-stage streaming platform into 
 
 **Business Viability Risk:** Platform success dependent on personal heroics rather than systematic reliability, limiting commercial expansion beyond minimal customer satisfaction.
 
-## Transformation Strategy
+## Our Approach
 
 ### Technical Foundation Rebuild
-**Platform Architecture Decision:** Led strategic 18-month migration from Windows/hardware dependency to cloud-native Go microservices on AWS, starting with Publishing service to establish upstream error catching.
+**Platform Architecture Decision:** Led 18-month migration from Windows/hardware dependency to cloud-native Go microservices on AWS, starting with Publishing service to establish upstream error catching.
 
 **Complete Technology Modernization:** 100% migration from legacy Windows/C#/ASP.NET to cloud-native Go services with proper observability and monitoring infrastructure.
 
-**Observability Investment:** Became early enterprise Datadog customer, establishing comprehensive monitoring and metrics foundation to replace "customer complaint = outage" detection model.
+**Observability Investment:** Became early enterprise Datadog customer, establishing monitoring and metrics foundation to replace "customer complaint = outage" detection model.
 
-### Organizational Culture Revolution  
+### Organizational Culture Transformation
 **Talent Strategy:** Made decisive leadership choice to rehire ~50% of engineering organization with external talent, establishing operational excellence culture while elevating operations team to first-class citizenship.
 
-**Ownership Culture:** Implemented formal on-call rotations with documented expectations, building systematic accountability for platform reliability across engineering teams.
+**Ownership Culture:** Implemented formal on-call rotations with documented expectations, building accountability for platform reliability across engineering teams.
 
-### Strategic Market Positioning
-**Competitive Openness:** Despite Turner majority ownership, built platform to serve entire market including direct competitors, demonstrating strategic platform thinking over narrow customer focus.
+### Market Positioning
+**Competitive Openness:** Despite Turner majority ownership, built platform to serve entire market including direct competitors, demonstrating platform thinking over narrow customer focus.
 
 **Customer Expansion:** Scaled platform to support March Madness (without custom stack), Fox Sports, NBC Sports, NBA League Pass, Turner Sports, eLeague, WCW, NBC local affiliates, F1, Winter & Summer Olympics, SuperBowl, EPL, CNN, and 10+ major media brands.
 
-## Measurable Results
+## Results
 
 **Scale Achievement:** Grew from 60 to 180+ live-linear channels and from dozens to hundreds of live events per month, establishing platform as industry standard for major media properties.
 
@@ -56,22 +56,22 @@ Led comprehensive transformation of fragile early-stage streaming platform into 
 
 **Technical Due Diligence:** Platform architecture and operational maturity proved acquisition-worthy, demonstrating enterprise-grade reliability and scalability for Warner Bros. Discovery integration.
 
-**Strategic Selection:** Post-acquisition platform was chosen as go-forward technology for all Warner Bros. Discovery channels, validating transformation investment and technical decisions.
+**Selection:** Warner Bros. Discovery chose the platform as go-forward technology for all channels post-acquisition, validating transformation investment and technical decisions.
 
 **Operational Continuity:** Seamless integration maintained production operations across all customer channels while establishing foundation for WBD's unified live streaming infrastructure.
 
-## Organizational Legacy
+## Impact
 
-**Sustainable Excellence:** Created engineering culture of ownership and systematic reliability that scaled from startup operational model to enterprise production requirements supporting major media brands.
+**Sustainable Excellence:** Created engineering culture of ownership and reliability that scaled from startup operational model to enterprise production requirements supporting major media brands.
 
 **Technical Foundation:** Established cloud-native architecture and observability practices that became foundation for Warner Bros. Discovery's streaming infrastructure strategy.
 
-**Leadership Framework:** Demonstrated that comprehensive technical and cultural transformation can create lasting enterprise value while maintaining operational continuity and customer satisfaction.
+**Leadership Framework:** Technical and cultural transformation created lasting enterprise value while maintaining operational continuity and customer satisfaction.
 
-## Strategic Insights
+## Lessons Learned
 
-**Executive Lesson 1:** Technical debt transformation requires simultaneous cultural change—architecture modernization without ownership culture fails at enterprise scale.
+**Lesson 1:** Technical debt transformation requires simultaneous cultural change—architecture modernization without ownership culture fails at enterprise scale.
 
-**Executive Lesson 2:** Strategic platform openness (serving competitors) can increase acquisition value by demonstrating market-wide applicability rather than single-customer dependency.
+**Lesson 2:** Platform openness (serving competitors) can increase acquisition value by demonstrating market-wide applicability rather than single-customer dependency.
 
-**Executive Lesson 3:** Systematic reliability investment pays acquisition dividends—buyers value platforms that scale without founding team heroics or institutional knowledge dependency.
+**Lesson 3:** Reliability investment pays acquisition dividends—buyers value platforms that scale without founding team heroics or institutional knowledge dependency.
