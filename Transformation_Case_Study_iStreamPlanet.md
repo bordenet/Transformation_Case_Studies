@@ -44,15 +44,15 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 
 **Market Penetration:** Expanded from 2 to 10+ major media brands including direct Turner competitors; strategic openness increased platform value and acquisition attractiveness.
 
-## Leadership Decisions
+## Key Decisions
 
 **Architecture Modernization:** Chose cloud-native Go microservices over incremental Windows/C# improvements, enabling 100% migration from legacy technical debt while maintaining customer operations.
 
-**Cultural Transformation:** Prioritized systematic reliability over heroic individual contributions, establishing sustainable operational excellence that scaled beyond founding team capabilities.
+**Cultural Transformation:** Prioritized reliability over heroic individual contributions, establishing sustainable operational excellence that scaled beyond founding team capabilities.
 
-**Market Strategy:** Enabled NBC Peacock launch despite direct HBO Max competition, proving platform value through strategic openness that increased acquisition attractiveness.
+**Market Strategy:** Enabled NBC Peacock launch despite direct HBO Max competition, proving platform value through openness that increased acquisition attractiveness.
 
-## Acquisition Impact
+## The Acquisition
 
 **Technical Due Diligence:** Platform architecture and operational maturity proved acquisition-worthy, demonstrating enterprise-grade reliability and scalability for Warner Bros. Discovery integration.
 
@@ -78,10 +78,10 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 
 **Observability Before Ownership:** Deployed comprehensive Datadog monitoring before establishing clear ownership model. Result: lots of alerts, nobody responding. Had to backtrack and establish on-call rotations first, then layer in observability.
 
-## Lessons Learned
+## What I Learned
 
-**Lesson 1:** Technical debt transformation requires simultaneous cultural change—architecture modernization without ownership culture fails at enterprise scale. I learned this the hard way by doing observability before ownership.
+**Culture and technology must change together:** Technical debt transformation requires simultaneous cultural change—architecture modernization without ownership culture fails at enterprise scale. I learned this the hard way by doing observability before ownership. (Related: [On-Call Culture](https://github.com/bordenet/Engineering_Culture/blob/main/On_Call_Culture.md))
 
-**Lesson 2:** Platform openness (serving competitors) can increase acquisition value by demonstrating market-wide applicability rather than single-customer dependency. This was counterintuitive but proved correct during acquisition.
+**Platform openness creates acquisition value:** Serving competitors can increase acquisition value by demonstrating market-wide applicability rather than single-customer dependency. This was counterintuitive but proved correct during acquisition.
 
-**Lesson 3:** Reliability investment pays acquisition dividends—buyers value platforms that scale without founding team heroics or institutional knowledge dependency. Warner Bros. Discovery specifically called this out during due diligence.
+**Reliability is an acquisition multiplier:** Buyers value platforms that scale without founding team heroics or institutional knowledge dependency. Warner Bros. Discovery specifically called this out during due diligence.

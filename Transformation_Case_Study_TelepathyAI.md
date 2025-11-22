@@ -19,7 +19,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Velocity Crisis:** 1-month ship cycles with manual QA; no standard agile practices; majority of H2 2024 features never enabled for production tenants despite customer demand growth (calls volume: 120K CpM to 340K TpM by March 2024).
 
-## Leadership Strategy
+## How We Did It
 
 ### International Team Unification
 **Cultural Transformation:** Worked with the leadership team to evolve from single architect hierarchical mandates to "First Team" leadership model across distributed Singapore/Zurich engineering organization, establishing unified accountability and decision-making framework.
@@ -76,13 +76,13 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Distributed Team Communication:** First attempts at async-first communication created information silos between US and India teams. Required explicit "overlap hours" policy and better documentation practices to fix.
 
-## Lessons Learned
+## What I Learned
 
-**Lesson 1:** International engineering leadership requires cultural unification through accountability models rather than geographic accommodation of dysfunction. Half-measures create resentment on both sides.
+**Don't accommodate dysfunction:** International engineering leadership requires cultural unification through accountability models rather than geographic accommodation of dysfunction. Half-measures create resentment on both sides. (Related: [On-Call Culture](https://github.com/bordenet/Engineering_Culture/blob/main/On_Call_Culture.md))
 
-**Lesson 2:** Technology decisions must prioritize market positioning over sunk cost preservation—proprietary technology sunset enabled competitive LLM adoption accelerating development 3x. I should have made this call 3 months earlier.
+**Sunk costs are sunk:** Technology decisions must prioritize market positioning over sunk cost preservation—proprietary technology sunset enabled competitive LLM adoption accelerating development 3x. I should have made this call 3 months earlier.
 
-**Lesson 3:** Engineering transformation can succeed despite complex business contexts when leadership maintains focus on technical excellence and team development independent of organizational turbulence. But you can't fix broken stakeholder relationships from the VP level.
+**You can't fix everything:** Engineering transformation can succeed despite complex business contexts when leadership maintains focus on technical excellence and team development independent of organizational turbulence. But you can't fix broken stakeholder relationships from the VP level.
 
 ## Complex Environment Leadership
 

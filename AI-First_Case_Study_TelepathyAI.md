@@ -14,7 +14,7 @@ Built AI-first engineering culture across 70-person organization over 12 months.
 
 **Resource Reduction:** Company reduced workforce from 70 engineers to 12, creating a clear opportunity to change the team's mode of operation.
 
-## Our Approach
+## How We Did It
 
 ### Phase 1: AI as Micro-Tasker (Cultural Foundation)
 - **Culture Building:** Launched organization-wide AI adoption initiative via #AI-First Slack channel with 50% engineer participation
@@ -50,9 +50,9 @@ Built AI-first engineering culture across 70-person organization over 12 months.
 
 **Security Concerns:** Initial secrets scanner implementation had high false-positive rate (40%), causing alert fatigue. Required 3 iterations over 6 weeks to tune detection patterns to acceptable signal-to-noise ratio.
 
-## Lessons Learned
+## What I Learned
 
-AI transformation requires a developer-first approach—engineers must experience immediate personal productivity gains to drive adoption at scale. Cultural change happens through champions and peer influence, not top-down mandates.
+AI transformation requires a developer-first approach—engineers must experience immediate personal productivity gains to drive adoption at scale. Cultural change happens through champions and peer influence, not top-down mandates. (Related: [AI-First Engineering](https://github.com/bordenet/Engineering_Culture/blob/main/AI_First_Engineering.md))
 
 ## Impact
 

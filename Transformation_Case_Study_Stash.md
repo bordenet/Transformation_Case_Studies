@@ -17,7 +17,7 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 **Regulated Environment Complexity:** Operating transformation in highly regulated fintech environment requiring simultaneous compliance maintenance across multiple regulatory frameworks while executing technical modernization.
 
-## Leadership Evolution Strategy
+## How We Did It
 
 ### Progressive Scope Expansion
 **Growth Path:** Expanded leadership responsibility from 6 engineers → 40 engineers → 220 engineers → interim CTO responsibilities, demonstrating ability to scale leadership impact across growing organizational complexity.
@@ -82,13 +82,13 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 **Premature Secrets Management Consolidation:** Attempted to consolidate 3 partially-implemented secrets vendors into 1 before understanding full requirements. Had to roll back and complete proper evaluation, adding 6 weeks to timeline.
 
-## Lessons Learned
+## What I Learned
 
-**Lesson 1:** Regulated environment transformation requires simultaneous excellence in compliance, culture, and technology—sequential approaches create unacceptable risk exposure.
+**Regulated environments demand parallel transformation:** Compliance, culture, and technology must improve simultaneously—sequential approaches create unacceptable risk exposure. You can't fix the tech debt while ignoring the cultural debt.
 
-**Lesson 2:** Organizational dysfunction in large engineering teams requires decisive talent decisions balanced with retention of high-potential contributors—half-measures prolong cultural dysfunction.
+**Decisive talent decisions are necessary but hard:** Organizational dysfunction in large engineering teams requires decisive talent decisions balanced with retention of high-potential contributors. Half-measures prolong cultural dysfunction and hurt the people you're trying to protect.
 
-**Lesson 3:** Fintech leadership demands heightened fiduciary responsibility for engineering decisions—platform reliability directly impacts customer financial security and regulatory standing.
+**Fintech is different:** Platform reliability directly impacts customer financial security and regulatory standing. The stakes are higher than in other industries, and that changes how you make decisions. (Related: [Incident Response](https://github.com/bordenet/Engineering_Culture/blob/main/Incident_Response.md))
 
 ## Impact
 
