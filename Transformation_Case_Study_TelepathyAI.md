@@ -24,7 +24,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 ### International Team Unification
 **Cultural Transformation:** Worked with the leadership team to evolve from single architect hierarchical mandates to "First Team" leadership model across distributed Singapore/Zurich engineering organization, establishing unified accountability and decision-making framework.
 
-**Geographic Rationalization:** Made difficult decision to shut down Zurich operation after recognizing organizational and technological inefficiencies, consolidating international talent around sustainable operational model. This was painful but necessary.
+**Geographic Rationalization:** After key Zurich leadership departed, CEO reduced the office to six scientists and researchers. We needed fungible engineers, not niche research expertise. I took ownership of the remaining team for a quarter to assess fit, then made the decision to close the Zurich operation and consolidate around Singapore.
 
 ### Technology Leadership
 **Proprietary Technology Sunset:** Led decisive pivot from 18-month proprietary AI investment to OpenAI-based solutions. This was a tough call given the sunk costs, but market positioning demanded it.
@@ -52,7 +52,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 ## Key Decisions
 
-**International Workforce Management:** Balanced cultural sensitivity with operational necessity when making geographic consolidation decisions, maintaining engineering talent retention while eliminating operational inefficiencies.
+**International Workforce Management:** After CEO reduced Zurich to six researchers following leadership departures, assessed team fit for a quarter before deciding to close the office. We needed fungible engineers, not specialized research roles. Consolidated around Singapore engineering team.
 
 **Technology Strategy Pivot:** Abandoned proprietary technology investment when market evolution made continuation unviable.
 
