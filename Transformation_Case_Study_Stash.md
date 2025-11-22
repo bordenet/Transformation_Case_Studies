@@ -36,17 +36,17 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 ## Results
 
-**Platform Reliability:** Reduced platform downtime 60% from 15 to 6 hours monthly through proper monitoring, incident management, and service reliability standards.
+**Platform Reliability:** Reduced platform downtime 60% from 15 to 6 hours monthly (measured over 12-month period) through proper monitoring, incident management, and service reliability standards.
 
-**Delivery Velocity:** Mobile release cycles accelerated from 3 months to 5 weeks; completed six previously stalled migration projects through systematic project management and ownership accountability.
+**Delivery Velocity:** Mobile release cycles accelerated from 3 months to 5 weeks (6x improvement); completed six previously stalled migration projects (each 6+ months overdue) through project management and ownership accountability.
 
-**Cost Efficiency:** AWS costs reduced 45% despite ongoing growth; improved OpEx ratio from ~55% to 30% of revenue through cost discipline and operational efficiency.
+**Cost Efficiency:** AWS costs reduced 45% despite ongoing growth (measured year-over-year); improved OpEx ratio from ~55% to 30% of revenue through cost discipline and operational efficiency.
 
-**Team Transformation:** Built fungible backend engineering team with full ownership including on-call and deployments, eliminating technical fragmentation through Go language standardization.
+**Team Transformation:** Built fungible backend engineering team (40 engineers) with full ownership including on-call and deployments, eliminating technical fragmentation through Go language standardization.
 
-**Design System Completion:** Increased coverage from 70% to functional completion, reducing feature implementation costs and accelerating UI development. The Principal Engineer who had been a flight risk led this effort and was promoted to Staff Engineer.
+**Design System Completion:** Increased coverage from 70% to functional completion (95%+ coverage), reducing feature implementation costs and accelerating UI development. The Principal Engineer who had been a flight risk led this effort and was promoted to Staff Engineer.
 
-**Organizational Optimization:** Company reduced overall headcount by 50% while we strategically retained and promoted high-potential internal talent.
+**Organizational Optimization:** Company reduced overall headcount by 50% (from 220 to 110 engineers) while we strategically retained and promoted high-potential internal talent.
 
 ## Executive Decision Framework
 

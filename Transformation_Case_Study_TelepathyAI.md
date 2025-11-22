@@ -38,15 +38,15 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 ## Results
 
-**Reliability Transformation:** Improved platform uptime from ~90% to 99.9% through SLI/SLO implementation and continuous improvement processes; eliminated Monday service degradation via predictive fleet scaling.
+**Reliability Transformation:** Improved platform uptime from ~90% to 99.9% (measured over 6-month period) through SLI/SLO implementation and continuous improvement processes; eliminated Monday service degradation via predictive fleet scaling.
 
-**Cost Optimization:** AWS costs reduced 50% from $120K to $60K monthly ($500K annual savings) carried through to Azure migration; Datadog costs reduced 66%; software licenses reduced 79%.
+**Cost Optimization:** AWS costs reduced 50% from $120K to $60K monthly ($500K annual savings) carried through to Azure migration; Datadog costs reduced 66% (from $18K to $6K monthly); software licenses reduced 79%.
 
-**Infrastructure Simplification:** Consolidated 30 Kubernetes clusters to 6 (3 per Azure Tenant), achieving 90% reduction in operational complexity with seamless AWS-to-Azure migration maintaining zero customer impact.
+**Infrastructure Simplification:** Consolidated 30 Kubernetes clusters to 6 (3 per Azure Tenant), achieving 80% reduction in operational complexity with seamless AWS-to-Azure migration (3.5 months) maintaining zero customer impact.
 
-**Velocity Acceleration:** Deployment cycles reduced from 1 month to 2 weeks; platform teams took ownership of QA testing, enabling agile practices adoption.
+**Velocity Acceleration:** Deployment cycles reduced from 1 month to 2 weeks (50% improvement); platform teams took ownership of QA testing, enabling agile practices adoption.
 
-**Growth Support:** Platform scaled to support 150% traffic growth from 80 to 220 automotive dealerships while maintaining cost discipline and operational excellence.
+**Growth Support:** Platform scaled to support 150% traffic growth from 80 to 220 automotive dealerships (175% increase over 12 months) while maintaining cost discipline and operational excellence.
 
 **Partnership:** Achieved Microsoft Reference Partner status through successful Azure migration, creating external validation and partnership opportunities.
 

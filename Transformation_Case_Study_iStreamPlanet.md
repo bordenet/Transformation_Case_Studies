@@ -36,13 +36,13 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 
 ## Results
 
-**Scale Achievement:** Grew from 60 to 180+ live-linear channels and from dozens to hundreds of live events per month, establishing platform as industry standard for major media properties.
+**Scale Achievement:** Grew from 60 to 180+ live-linear channels (3x growth over 18 months) and from dozens to hundreds of live events per month, establishing platform as industry standard for major media properties.
 
-**Reliability Transformation:** From unmeasured multi-hour outages to 99.99% uptime supporting March Madness without heroics, eliminating customer complaint-based outage detection.
+**Reliability Transformation:** From unmeasured multi-hour outages (baseline: 2-3 major incidents per month) to 99.99% uptime supporting March Madness without heroics, eliminating customer complaint-based outage detection.
 
-**Operational Efficiency:** Eliminated Broadcast Operations Center staffing and broadcast hardware bottleneck; events now driven by single operator instead of full broadcast teams.
+**Operational Efficiency:** Eliminated Broadcast Operations Center staffing (5-person team) and broadcast hardware bottleneck; events now driven by single operator instead of full broadcast teams.
 
-**Market Penetration:** Expanded from 2 to 10+ major media brands including direct Turner competitors; strategic openness increased platform value and acquisition attractiveness.
+**Market Penetration:** Expanded from 2 to 10+ major media brands (5x growth over 2 years) including direct Turner competitors; openness increased platform value and acquisition attractiveness.
 
 ## Key Decisions
 

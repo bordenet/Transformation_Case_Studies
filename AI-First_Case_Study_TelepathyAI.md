@@ -37,9 +37,9 @@ Built AI-first engineering culture across 70-person organization over 12 months.
 
 ## Results
 
-- **Development Velocity:** 40% reduction in feature time-to-market
-- **AI Adoption:** 60% daily AI tool usage (from 15% baseline)
-- **Operational Overhead:** 60% reduction in repetitive task time across engineering teams
+- **Development Velocity:** 40% reduction in feature time-to-market (measured over 6-month period comparing Q3 2024 to Q1 2024)
+- **AI Adoption:** 60% daily AI tool usage (from 15% baseline, measured via internal survey of 70 engineers)
+- **Operational Overhead:** 60% reduction in repetitive task time across engineering teams (PR descriptions, commit messages, documentation)
 - **Engineering Culture:** Transformed mindset from "AI-curious" to "AI-native" across organization
 
 ## Challenges and Missteps
