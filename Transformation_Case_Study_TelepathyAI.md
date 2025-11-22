@@ -50,7 +50,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Partnership:** Achieved Microsoft Reference Partner status through successful Azure migration, creating external validation and partnership opportunities.
 
-## Executive Decision Framework
+## Key Decisions
 
 **International Workforce Management:** Balanced cultural sensitivity with operational necessity when making geographic consolidation decisions, maintaining engineering talent retention while eliminating operational inefficiencies.
 
@@ -58,7 +58,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Leadership Model Evolution:** Transitioned from hierarchical control model to distributed "First Team" approach, enabling international team coordination and autonomous decision-making.
 
-## Transformation Under Pressure
+## Working Through Complexity
 
 **Operational Excellence in Crisis:** Implemented OE programs, COE processes, and incident response frameworks while managing complex international team dynamics and business relationship challenges.
 

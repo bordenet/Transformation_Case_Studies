@@ -48,15 +48,15 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 **Organizational Optimization:** Company reduced overall headcount by 50% (from 220 to 110 engineers) while we strategically retained and promoted high-potential internal talent.
 
-## Executive Decision Framework
+## Key Decisions
 
-**Talent Strategy:** Made difficult but necessary decision to reduce overall headcount by 50% while strategically retaining and promoting high-potential internal talent, creating sustainable organizational structure.
+**Talent Strategy:** Made difficult but necessary decision to reduce overall headcount by 50% while retaining and promoting high-potential internal talent, creating sustainable organizational structure.
 
 **Technology Consolidation:** Eliminated technical fragmentation through language standardization (mandated Go) and architectural decisions, creating fungible engineering teams with full ownership accountability.
 
 **Leadership Infrastructure:** Hired Engineering Director partner and rebuilt leadership structure to support sustainable growth while maintaining hands-on technical credibility during transition.
 
-## Organizational Impact
+## Long-Term Impact
 
 **Cultural Sustainability:** Transformed reactive firefighting organization into proactive ownership-driven culture capable of self-sustaining performance improvement without continuous leadership intervention.
 
@@ -64,7 +64,7 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 **Leadership Development:** Created framework for scaling engineering leadership across rapidly growing organization while maintaining technical excellence and cultural coherence.
 
-## Strategic Business Alignment
+## Business Impact
 
 **Mission-Critical Service Delivery:** Enabled reliable financial services platform for 2M+ underbanked Americans managing their financial futures, requiring heightened reliability and security standards beyond typical SaaS applications.
 
