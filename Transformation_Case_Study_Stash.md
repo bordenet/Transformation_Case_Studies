@@ -84,7 +84,7 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 ## What I Learned
 
-**Regulated environments demand parallel transformation:** Compliance, culture, and technology must improve simultaneously—sequential approaches create unacceptable risk exposure. You can't fix the tech debt while ignoring the cultural debt.
+**Regulated environments demand parallel transformation:** Compliance, culture, and technology must improve simultaneously. Sequential approaches create unacceptable risk exposure. You can't fix the tech debt while ignoring the cultural debt.
 
 **Decisive talent decisions are necessary but hard:** Organizational dysfunction in large engineering teams requires decisive talent decisions balanced with retention of high-potential contributors. Half-measures prolong cultural dysfunction and hurt the people you're trying to protect.
 

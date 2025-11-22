@@ -11,7 +11,7 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 
 **Platform Instability:** Windows services with memory-mapped files, legacy ASP.NET with five deployed forks, and unmeasured multi-hour outages frequently causing NBC Sports and Turner customer complaints.
 
-**Cultural Challenges:** When I arrived, ownership and impact across the 35-engineer organization was grossly skewed—a very small number of engineers drove outsized impact while many others struggled to turn broken aspects of the platform around. Product metrics were known to be completely untrustworthy, logs were effectively useless, and there were no useful SLIs. Las Vegas operations team was put into an impossible situation with limited chances of success without more direct ownership from Redmond engineering teams.
+**Cultural Challenges:** When I arrived, ownership and impact across the 35-engineer organization was grossly skewed. A very small number of engineers drove outsized impact while many others struggled to turn broken aspects of the platform around. Product metrics were known to be completely untrustworthy, logs were effectively useless, and there were no useful SLIs. Las Vegas operations team was put into an impossible situation with limited chances of success without more direct ownership from Redmond engineering teams.
 
 **Business Viability Risk:** Platform success dependent on personal heroics rather than systematic reliability, limiting commercial expansion beyond minimal customer satisfaction.
 
@@ -22,10 +22,10 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 
 **Complete Technology Modernization:** 100% migration from legacy Windows/C#/ASP.NET to cloud-native Go services with proper observability and monitoring infrastructure. The team learned Go together during this process.
 
-**Observability Investment:** Became early enterprise Datadog customer, establishing monitoring and metrics foundation to replace "customer complaint = outage" detection model. First month's bill was a shock—had to quickly implement sampling and retention policies.
+**Observability Investment:** Became early enterprise Datadog customer, establishing monitoring and metrics foundation to replace "customer complaint = outage" detection model. First month's bill was a shock. Had to quickly implement sampling and retention policies.
 
 ### Organizational Culture Transformation
-**Talent Strategy:** Made difficult decision to rehire ~50% of engineering organization with external talent, establishing operational excellence culture while elevating operations team to first-class citizenship. This was painful but necessary to change the culture.
+**Talent Strategy:** Made difficult decision to rehire ~50% of engineering organization with external talent, establishing operational excellence culture while elevating operations team to first-class citizenship.
 
 **Ownership Culture:** Implemented formal on-call rotations with documented expectations, building accountability for platform reliability across engineering teams. Took 3 months and significant coaching to make this stick.
 
@@ -80,7 +80,7 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 
 ## What I Learned
 
-**Culture and technology must change together:** Technical debt transformation requires simultaneous cultural change—architecture modernization without ownership culture fails at enterprise scale. I learned this the hard way by doing observability before ownership. (Related: [On-Call Culture](https://github.com/bordenet/Engineering_Culture/blob/main/On_Call_Culture.md))
+**Culture and technology must change together:** Technical debt transformation requires simultaneous cultural change. Architecture modernization without ownership culture fails at enterprise scale. I learned this the hard way by doing observability before ownership. (Related: [On-Call Culture](https://github.com/bordenet/Engineering_Culture/blob/main/On_Call_Culture.md))
 
 **Platform openness creates acquisition value:** Serving competitors can increase acquisition value by demonstrating market-wide applicability rather than single-customer dependency. This was counterintuitive but proved correct during acquisition.
 

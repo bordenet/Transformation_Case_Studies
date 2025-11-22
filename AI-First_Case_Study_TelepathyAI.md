@@ -52,7 +52,7 @@ Built AI-first engineering culture across 70-person organization over 12 months.
 
 ## What I Learned
 
-AI transformation requires a developer-first approach—engineers must experience immediate personal productivity gains to drive adoption at scale. Cultural change happens through champions and peer influence, not top-down mandates. (Related: [AI-First Engineering](https://github.com/bordenet/Engineering_Culture/blob/main/AI_First_Engineering.md))
+AI transformation requires a developer-first approach. Engineers must experience immediate personal productivity gains to drive adoption at scale. Cultural change happens through champions and peer influence, not top-down mandates. (Related: [AI-First Engineering](https://github.com/bordenet/Engineering_Culture/blob/main/AI_First_Engineering.md))
 
 ## Impact
 
