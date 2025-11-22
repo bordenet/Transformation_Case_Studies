@@ -44,9 +44,9 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 **Team Transformation:** Built fungible backend engineering team with full ownership including on-call and deployments, eliminating technical fragmentation through Go language standardization.
 
-**Design System Completion:** Increased coverage from 70% to functional completion, reducing feature implementation costs and accelerating UI development.
+**Design System Completion:** Increased coverage from 70% to functional completion, reducing feature implementation costs and accelerating UI development. The Principal Engineer who had been a flight risk led this effort and was promoted to Staff Engineer.
 
-**Organizational Optimization:** Reduced overall headcount by 50% while strategically retaining and promoting high-potential internal talent, including key Principal Engineer who had been long-time flight risk.
+**Organizational Optimization:** Company reduced overall headcount by 50% while we strategically retained and promoted high-potential internal talent.
 
 ## Executive Decision Framework
 
@@ -71,6 +71,16 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 **Cost Structure Optimization:** Improved OpEx ratio from ~55% to 30% of revenue through cost discipline and operational efficiency, creating sustainable business model foundation.
 
 **Organizational Scalability:** Built engineering culture and technical foundation capable of supporting future business growth without proportional leadership overhead increases.
+
+## Challenges and Missteps
+
+**Initial Heroku-to-AWS Migration Stall:** First attempt at cloud migration failed after 4 months due to lack of clear ownership and incremental migration strategy. Restarted with dedicated migration team and service-by-service approach, completing in 8 months.
+
+**Design System Resistance:** Initial mandate to use incomplete design system (70% coverage) created friction with product teams who needed components that didn't exist. Had to allow temporary exceptions while accelerating design system completion, which delayed full adoption by 3 months.
+
+**On-Call Pushback:** First on-call rotation implementation faced significant resistance from engineers accustomed to DevOps handling all production issues. Required 2 iterations and explicit management support to establish sustainable on-call culture.
+
+**Premature Secrets Management Consolidation:** Attempted to consolidate 3 partially-implemented secrets vendors into 1 before understanding full requirements. Had to roll back and complete proper evaluation, adding 6 weeks to timeline.
 
 ## Lessons Learned
 

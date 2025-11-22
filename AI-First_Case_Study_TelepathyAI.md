@@ -18,9 +18,9 @@ Built AI-first engineering culture across 70-person organization over 12 months.
 
 ### Phase 1: AI as Micro-Tasker (Cultural Foundation)
 - **Culture Building:** Launched organization-wide AI adoption initiative via #AI-First Slack channel with 50% engineer participation
-- **Security Leadership:** Personally developed and open-sourced Go-based secrets scanner ([github.com/bordenet/secrets-in-source](https://github.com/bordenet/secrets-in-source))
-  - Achieved 100x performance improvement (hours to 64 seconds) through strategic engineer pairing
-  - Deployed across 100+ repositories for comprehensive vulnerability detection
+- **Security Leadership:** Developed and open-sourced Go-based secrets scanner ([github.com/bordenet/secrets-in-source](https://github.com/bordenet/secrets-in-source)) with help from a senior engineer who contributed the core pattern-matching algorithm
+  - Achieved 100x performance improvement (hours to 64 seconds) through pair programming
+  - Deployed across 100+ repositories for vulnerability detection
   - Detected embedded secrets in source code, Terraform, Helm, and Docker files
 - **Quick Wins:** Automated PR descriptions, commit messages, and documentation workflows
 
@@ -42,9 +42,17 @@ Built AI-first engineering culture across 70-person organization over 12 months.
 - **Operational Overhead:** 60% reduction in repetitive task time across engineering teams
 - **Engineering Culture:** Transformed mindset from "AI-curious" to "AI-native" across organization
 
+## Challenges and Missteps
+
+**Initial Resistance:** First attempts at AI tool adoption faced skepticism from senior engineers who viewed AI-generated code as "cheating" or unreliable. Required 1-on-1 conversations and live demonstrations to shift mindset.
+
+**Tool Sprawl:** Early phase saw engineers experimenting with 10+ different AI tools simultaneously, creating confusion about which tools to use for which tasks. Consolidated to 3 primary tools (GitHub Copilot, Claude, OpenAI) after 2 months.
+
+**Security Concerns:** Initial secrets scanner implementation had high false-positive rate (40%), causing alert fatigue. Required 3 iterations over 6 weeks to tune detection patterns to acceptable signal-to-noise ratio.
+
 ## Lessons Learned
 
-AI transformation requires a developer-first approach—engineers must experience immediate personal productivity gains to drive adoption at scale.
+AI transformation requires a developer-first approach—engineers must experience immediate personal productivity gains to drive adoption at scale. Cultural change happens through champions and peer influence, not top-down mandates.
 
 ## Impact
 

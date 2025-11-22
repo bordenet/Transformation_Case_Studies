@@ -18,16 +18,16 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 ## Our Approach
 
 ### Technical Foundation Rebuild
-**Platform Architecture Decision:** Led 18-month migration from Windows/hardware dependency to cloud-native Go microservices on AWS, starting with Publishing service to establish upstream error catching.
+**Platform Architecture Decision:** Led 18-month migration from Windows/hardware dependency to cloud-native Go microservices on AWS. After an initial false start with the Ingest service, we restarted with Publishing service to establish upstream error catching.
 
-**Complete Technology Modernization:** 100% migration from legacy Windows/C#/ASP.NET to cloud-native Go services with proper observability and monitoring infrastructure.
+**Complete Technology Modernization:** 100% migration from legacy Windows/C#/ASP.NET to cloud-native Go services with proper observability and monitoring infrastructure. The team learned Go together during this process.
 
-**Observability Investment:** Became early enterprise Datadog customer, establishing monitoring and metrics foundation to replace "customer complaint = outage" detection model.
+**Observability Investment:** Became early enterprise Datadog customer, establishing monitoring and metrics foundation to replace "customer complaint = outage" detection model. First month's bill was a shock—had to quickly implement sampling and retention policies.
 
 ### Organizational Culture Transformation
-**Talent Strategy:** Made decisive leadership choice to rehire ~50% of engineering organization with external talent, establishing operational excellence culture while elevating operations team to first-class citizenship.
+**Talent Strategy:** Made difficult decision to rehire ~50% of engineering organization with external talent, establishing operational excellence culture while elevating operations team to first-class citizenship. This was painful but necessary to change the culture.
 
-**Ownership Culture:** Implemented formal on-call rotations with documented expectations, building accountability for platform reliability across engineering teams.
+**Ownership Culture:** Implemented formal on-call rotations with documented expectations, building accountability for platform reliability across engineering teams. Took 3 months and significant coaching to make this stick.
 
 ### Market Positioning
 **Competitive Openness:** Despite Turner majority ownership, built platform to serve entire market including direct competitors, demonstrating platform thinking over narrow customer focus.
@@ -68,10 +68,20 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 
 **Leadership Framework:** Technical and cultural transformation created lasting enterprise value while maintaining operational continuity and customer satisfaction.
 
+## Challenges and Missteps
+
+**Initial Migration Sequencing Error:** First attempt started with Ingest service (most complex, customer-facing). After 2 months of struggle, restarted with Publishing service (upstream, simpler) which caught errors before they reached customers. Should have thought through the dependency chain first.
+
+**Datadog Cost Explosion:** Early implementation lacked proper metric filtering and retention policies. First month bill was 3x budget. Required emergency cost optimization sprint to implement sampling and retention tiers.
+
+**On-Call Resistance:** Initial on-call implementation faced significant pushback from engineers who had never carried pagers. First rotation had 60% of pages going unanswered. Required explicit management support and 3 months of coaching to establish sustainable culture.
+
+**Observability Before Ownership:** Deployed comprehensive Datadog monitoring before establishing clear ownership model. Result: lots of alerts, nobody responding. Had to backtrack and establish on-call rotations first, then layer in observability.
+
 ## Lessons Learned
 
-**Lesson 1:** Technical debt transformation requires simultaneous cultural change—architecture modernization without ownership culture fails at enterprise scale.
+**Lesson 1:** Technical debt transformation requires simultaneous cultural change—architecture modernization without ownership culture fails at enterprise scale. I learned this the hard way by doing observability before ownership.
 
-**Lesson 2:** Platform openness (serving competitors) can increase acquisition value by demonstrating market-wide applicability rather than single-customer dependency.
+**Lesson 2:** Platform openness (serving competitors) can increase acquisition value by demonstrating market-wide applicability rather than single-customer dependency. This was counterintuitive but proved correct during acquisition.
 
-**Lesson 3:** Reliability investment pays acquisition dividends—buyers value platforms that scale without founding team heroics or institutional knowledge dependency.
+**Lesson 3:** Reliability investment pays acquisition dividends—buyers value platforms that scale without founding team heroics or institutional knowledge dependency. Warner Bros. Discovery specifically called this out during due diligence.

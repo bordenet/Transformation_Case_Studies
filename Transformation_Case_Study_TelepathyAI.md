@@ -22,14 +22,14 @@ Rebuilt international engineering organization across Singapore and Zurich while
 ## Leadership Strategy
 
 ### International Team Unification
-**Cultural Transformation:** Evolved from single architect hierarchical mandates to "First Team" leadership model across distributed Singapore/Zurich engineering organization, establishing unified accountability and decision-making framework.
+**Cultural Transformation:** Worked with the leadership team to evolve from single architect hierarchical mandates to "First Team" leadership model across distributed Singapore/Zurich engineering organization, establishing unified accountability and decision-making framework.
 
-**Geographic Rationalization:** Made difficult decision to shut down Zurich operation after recognizing organizational and technological inefficiencies, consolidating international talent around sustainable operational model.
+**Geographic Rationalization:** Made difficult decision to shut down Zurich operation after recognizing organizational and technological inefficiencies, consolidating international talent around sustainable operational model. This was painful but necessary.
 
 ### Technology Leadership
-**Proprietary Technology Sunset:** Led decisive pivot from 18-month proprietary AI investment to OpenAI-based solutions, demonstrating willingness to abandon sunk costs for superior market positioning.
+**Proprietary Technology Sunset:** Led decisive pivot from 18-month proprietary AI investment to OpenAI-based solutions. This was a tough call given the sunk costs, but market positioning demanded it.
 
-**AI-First Transformation:** Established AI-native engineering workflows across organization, repositioning engineering capabilities around modern LLM integration rather than legacy proprietary technology.
+**AI-First Transformation:** Worked with the team to establish AI-native engineering workflows across organization, repositioning engineering capabilities around modern LLM integration rather than legacy proprietary technology.
 
 ### Complex Stakeholder Management
 **Business Relationship Navigation:** Maintained engineering excellence and team morale despite challenging business dynamics between Telepathy.AI and StellaAutomotive, insulating technical teams from organizational turbulence.
@@ -66,13 +66,23 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Sustainable Technical Foundation:** Built engineering practices and technical architecture that outlasted business relationship difficulties, proving transformation sustainability independent of organizational context.
 
+## Challenges and Missteps
+
+**Geographic Dysfunction Accommodation:** Initially tried to accommodate India team's resistance to on-call rotations by creating separate "support tier" structure. This failed after 2 months as it reinforced two-tier culture. Had to restart with unified global on-call expectations.
+
+**Proprietary LLM Sunk Cost:** Spent 3 months trying to salvage proprietary LLM technology before accepting that market had moved past us. Delaying the sunset decision cost us competitive positioning and team morale.
+
+**Stakeholder Relationship Deterioration:** Failed to recognize early warning signs of deteriorating relationship between CEO and majority shareholder. By the time I understood the severity, options for intervention were limited.
+
+**Distributed Team Communication:** First attempts at async-first communication created information silos between US and India teams. Required explicit "overlap hours" policy and better documentation practices to fix.
+
 ## Lessons Learned
 
-**Lesson 1:** International engineering leadership requires cultural unification through accountability models rather than geographic accommodation of dysfunction.
+**Lesson 1:** International engineering leadership requires cultural unification through accountability models rather than geographic accommodation of dysfunction. Half-measures create resentment on both sides.
 
-**Lesson 2:** Technology decisions must prioritize market positioning over sunk cost preservation—proprietary technology sunset enabled competitive LLM adoption accelerating development 3x.
+**Lesson 2:** Technology decisions must prioritize market positioning over sunk cost preservation—proprietary technology sunset enabled competitive LLM adoption accelerating development 3x. I should have made this call 3 months earlier.
 
-**Lesson 3:** Engineering transformation can succeed despite complex business contexts when leadership maintains focus on technical excellence and team development independent of organizational turbulence.
+**Lesson 3:** Engineering transformation can succeed despite complex business contexts when leadership maintains focus on technical excellence and team development independent of organizational turbulence. But you can't fix broken stakeholder relationships from the VP level.
 
 ## Complex Environment Leadership
 
