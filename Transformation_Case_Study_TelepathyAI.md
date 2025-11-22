@@ -70,15 +70,15 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Inherited Zurich-Singapore Dysfunction:** Years-long strained relationship between Zurich and Singapore teams predated my tenure. The problematic leadership had already departed by the time I took over. Worked to shore up relationships and get Singapore engineers to take more ownership, but the structural mismatch between research roles and engineering needs remained.
 
+**Research vs. Applied Engineering Culture:** Unable to find harmonious balance between research/science culture and applied engineering requirements. While Singapore embraced accountability, ownership, and transparent incident response, research-oriented teams operated with different expectations around operational excellence. Scientists/researchers not fully committed to engineering excellence, transparency, feedback from the broader company, and continuous operational improvement should not write production code. If you build code, you go on call for it, or the company will be placed at great risk. We eventually learned that rebooting the AI backend nightly eliminated 90% of our operational problems—a clear signal of fundamental engineering quality issues.
+
 **Proprietary LLM Sunk Cost:** Spent 3 months trying to salvage six-year proprietary conversational AI technology before accepting that the market had moved past us. Delaying the sunset decision cost us competitive positioning and team morale.
 
 ## What I Learned
 
-**Don't accommodate dysfunction:** International engineering leadership requires cultural unification through accountability models rather than geographic accommodation of dysfunction. Half-measures create resentment on both sides. (Related: [On-Call Culture](https://github.com/bordenet/Engineering_Culture/blob/main/On_Call_Culture.md))
+**You can optimize half the problem, but that's not always enough:** Worked extensively with Singapore teams and they improved significantly. But we had deeply entrenched antipatterns for collaboration and a skills/culture gap around cross-geography operations. Teams lacked the skills or coaching to operate effectively across geographies, and some teams wouldn't take on-call responsibility for their own products. This compromised our velocity and availability, holding us back competitively. The SaaS platform continues to operate in production at StellaAutomotive today, but the AI backend was replaced with commercial LLMs. (Related: [On-Call Culture](https://github.com/bordenet/Engineering_Culture/blob/main/On_Call_Culture.md))
 
 **Sunk costs are sunk:** Technology decisions must prioritize market positioning over sunk cost preservation—sunsetting the six-year proprietary conversational AI stack enabled competitive LLM adoption accelerating development 3x. I should have made this call 3 months earlier.
-
-**You can't fix everything:** Engineering transformation can succeed despite complex business contexts when leadership maintains focus on technical excellence and team development independent of organizational turbulence. But you can't fix broken stakeholder relationships from the VP level.
 
 ## Complex Environment Leadership
 
