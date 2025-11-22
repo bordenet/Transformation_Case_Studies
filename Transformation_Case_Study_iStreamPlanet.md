@@ -11,7 +11,7 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 
 **Platform Instability:** Windows services with memory-mapped files, legacy ASP.NET with five deployed forks, and unmeasured multi-hour outages frequently causing NBC Sports and Turner customer complaints.
 
-**Cultural Dysfunction:** 35 engineers with broad disengagement, resistance to operational responsibility, and second-class treatment of critical Las Vegas operations team.
+**Cultural Challenges:** When I arrived, ownership and impact across the 35-engineer organization was grossly skewed—a very small number of engineers drove outsized impact while many others struggled to turn broken aspects of the platform around. Product metrics were known to be completely untrustworthy, logs were effectively useless, and there were no useful SLIs. Las Vegas operations team was put into an impossible situation with limited chances of success without more direct ownership from Redmond engineering teams.
 
 **Business Viability Risk:** Platform success dependent on personal heroics rather than systematic reliability, limiting commercial expansion beyond minimal customer satisfaction.
 

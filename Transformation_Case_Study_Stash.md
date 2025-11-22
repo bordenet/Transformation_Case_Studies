@@ -9,7 +9,7 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 **Platform Crisis:** 15+ hours monthly downtime impacting 2M+ users through OAuth failures, back-end service crashes, and native app bugs causing regular customer lockouts requiring app restarts.
 
-**Organizational Dysfunction:** 220 engineers operating in director-level silos with fragmented ownership, "toxically positive" culture preventing candid feedback, and weak technical leadership unable to drive company-wide decisions.
+**Organizational Challenges:** 220 engineers operating in director-level silos with fractured ownership due to rifts within the Product team and misalignments between engineering and product counterparts. Critical feature sets lacked owning teams. Culture often relied on basking in the big-picture mission, which indeed was noble, but held employee growth and development back by lack of cross-team and cross-discipline candor and accountability to company outcomes.
 
 **Technical Chaos:** Six stalled mid-migration projects (feature flags, three partially implemented secrets management vendors, Heroku to AWS, Fargate to EKS), 30% incomplete in-house UX Design System tripling feature costs, and mixed Ruby/Go/Scala/Java architecture with no company standards.
 

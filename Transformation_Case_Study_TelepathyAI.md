@@ -27,7 +27,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 **Geographic Rationalization:** After key Zurich leadership departed, CEO reduced the office to six scientists and researchers. We needed fungible engineers, not niche research expertise. I took ownership of the remaining team for a quarter to assess fit, then made the decision to close the Zurich operation and consolidate around Singapore.
 
 ### Technology Leadership
-**Proprietary Technology Sunset:** Led decisive pivot from 18-month proprietary AI investment to OpenAI-based solutions. This was a tough call given the sunk costs, but market positioning demanded it.
+**Proprietary Technology Sunset:** Led decisive pivot from six-year proprietary conversational AI stack to OpenAI-based solutions. Spent my final 3 months trying to salvage it before accepting the market had moved past us. This was a tough call given the sunk costs, but market positioning demanded it.
 
 **AI-First Transformation:** Worked with the team to establish AI-native engineering workflows across organization, repositioning engineering capabilities around modern LLM integration rather than legacy proprietary technology.
 
@@ -86,7 +86,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Resilience:** Built engineering culture and technical foundation that proved sustainable beyond original business context, establishing framework for continued success independent of organizational relationships.
 
-**Difficult Decision Leadership:** Made necessary workforce and technology decisions despite emotional and financial costs, prioritizing long-term strategic positioning over short-term stability or comfort.
+**Difficult Decision Leadership:** Advised CEO regarding necessary workforce and technology changes necessary to salvage company financial losses, prioritizing long-term strategic positioning over short-term stability or comfort.
 
 ## Impact
 
