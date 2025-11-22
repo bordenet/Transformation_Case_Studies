@@ -15,7 +15,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **International Organizational Complexity:** ~70 engineers distributed across Singapore/Zurich without unified accountability model, operating in "agree-to-disagree" culture that hindered architectural integration and customer experience alignment.
 
-**Technology Obsolescence:** 18-month investment in proprietary conversational AI technology eclipsed by industry advances (GPT/Claude), requiring difficult pivot decision with sunk cost implications.
+**Technology Obsolescence:** Six-year proprietary conversational AI stack eclipsed by industry advances (GPT/Claude), requiring difficult pivot decision with significant sunk cost implications.
 
 **Velocity Crisis:** 1-month ship cycles with manual QA; no standard agile practices; majority of H2 2024 features never enabled for production tenants despite customer demand growth (calls volume: 120K CpM to 340K TpM by March 2024).
 
@@ -70,7 +70,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Geographic Dysfunction Accommodation:** Initially tried to accommodate India team's resistance to on-call rotations by creating separate "support tier" structure. This failed after 2 months as it reinforced two-tier culture. Had to restart with unified global on-call expectations.
 
-**Proprietary LLM Sunk Cost:** Spent 3 months trying to salvage proprietary LLM technology before accepting that market had moved past us. Delaying the sunset decision cost us competitive positioning and team morale.
+**Proprietary LLM Sunk Cost:** Spent 3 months trying to salvage six-year proprietary conversational AI technology before accepting that the market had moved past us. Delaying the sunset decision cost us competitive positioning and team morale.
 
 **Stakeholder Relationship Deterioration:** Failed to recognize early warning signs of deteriorating relationship between CEO and majority shareholder. By the time I understood the severity, options for intervention were limited.
 
@@ -80,7 +80,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Don't accommodate dysfunction:** International engineering leadership requires cultural unification through accountability models rather than geographic accommodation of dysfunction. Half-measures create resentment on both sides. (Related: [On-Call Culture](https://github.com/bordenet/Engineering_Culture/blob/main/On_Call_Culture.md))
 
-**Sunk costs are sunk:** Technology decisions must prioritize market positioning over sunk cost preservation—proprietary technology sunset enabled competitive LLM adoption accelerating development 3x. I should have made this call 3 months earlier.
+**Sunk costs are sunk:** Technology decisions must prioritize market positioning over sunk cost preservation—sunsetting the six-year proprietary conversational AI stack enabled competitive LLM adoption accelerating development 3x. I should have made this call 3 months earlier.
 
 **You can't fix everything:** Engineering transformation can succeed despite complex business contexts when leadership maintains focus on technical excellence and team development independent of organizational turbulence. But you can't fix broken stakeholder relationships from the VP level.
 
