@@ -68,11 +68,9 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 ## Challenges and Missteps
 
-**Inherited Zurich-Singapore Dysfunction:** Years-long strained relationship between Zurich scientists/researchers and Singapore engineering teams predated my tenure. Zurich operated with research mindset while Singapore teams were passive and submissive. Worked to shore up relationships and get Singapore engineers to take more ownership, but cultural friction persisted.
+**Inherited Zurich-Singapore Dysfunction:** Years-long strained relationship between Zurich and Singapore teams predated my tenure. The problematic leadership had already departed by the time I took over. Worked to shore up relationships and get Singapore engineers to take more ownership, but the structural mismatch between research roles and engineering needs remained.
 
 **Proprietary LLM Sunk Cost:** Spent 3 months trying to salvage six-year proprietary conversational AI technology before accepting that the market had moved past us. Delaying the sunset decision cost us competitive positioning and team morale.
-
-**Stakeholder Relationship Deterioration:** Failed to recognize early warning signs of deteriorating relationship between CEO and majority shareholder. By the time I understood the severity, options for intervention were limited.
 
 ## What I Learned
 
