@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-Built AI-first engineering culture across 70-person organization over 12 months. Achieved $500K annual savings, 33% infrastructure cost reduction, 40% faster feature delivery, and 60% daily AI tool adoption.
+Built AI-first engineering culture across 70-person organization over 12 months. Achieved 40% faster feature delivery through 60% daily AI tool adoption.
 
 ## The Problem
 
@@ -17,18 +17,14 @@ Built AI-first engineering culture across 70-person organization over 12 months.
 
 ### Phase 1: AI as Micro-Tasker (Cultural Foundation)
 - **Culture Building:** Launched organization-wide AI adoption initiative via #AI-First Slack channel with 50% engineer participation
-- **Security Leadership:** Developed and open-sourced Go-based secrets scanner ([github.com/bordenet/secrets-in-source](https://github.com/bordenet/secrets-in-source)) with help from a senior engineer who contributed the core pattern-matching algorithm
-  - Achieved 100x performance improvement (hours to 64 seconds) through pair programming
-  - Deployed across 100+ repositories for vulnerability detection
-  - Detected embedded secrets in source code, Terraform, Helm, and Docker files
 - **Quick Wins:** Automated PR descriptions, commit messages, and documentation workflows
 
 ### Phase 2: AI as Companion (Development Integration)
 - **Workflow Enhancement:** Deployed GitHub Copilot, Claude, and OpenAI across all engineering teams
 - **Quality Acceleration:** AI-generated tests reduced creation time 60%; first-pass AI reviews caught 40% of issues pre-human review
-- **Product Gap Solution:** Built AI-powered PRD generator ([github.com/bordenet/product-requirements-assistant](https://github.com/bordenet/product-requirements-assistant))
+- **Product Gap Solution:** Built AI-powered PRD generator
   - Enabled engineering-driven product development during PM absence
-  - Generated six production-grade PRDs using multi-pass Claude/Gemini workflow
+  - Generated six production-grade PRDs using [multi-pass Claude/Gemini workflow](https://github.com/bordenet/product-requirements-assistant)
 
 ## Cultural Approach
 
@@ -36,23 +32,10 @@ Built AI-first engineering culture across 70-person organization over 12 months.
 
 ## Results
 
-**Development Velocity:** 40% reduction in feature time-to-market (measured over 6-month period comparing Q3 2024 to Q1 2024) through AI-augmented development workflows and automated quality processes.
-
-**AI Adoption:** 60% daily AI tool usage (from 15% baseline, measured via internal survey of 70 engineers), establishing AI-native engineering culture across organization.
-
-**Operational Overhead:** 60% reduction in repetitive task time across engineering teams (PR descriptions, commit messages, documentation), freeing engineers for higher-value work.
-
-**Engineering Culture:** Transformed mindset from "AI-curious" to "AI-native" across organization through champion-driven adoption and peer influence.
-
-**Cost Efficiency:** $500K annual savings through infrastructure optimization and 33% infrastructure cost reduction enabled by AI-assisted resource management.
-
-## Key Decisions
-
-**Developer-First Adoption Strategy:** Prioritized immediate personal productivity gains over top-down mandates, enabling organic adoption through champion-driven peer influence rather than executive directive.
-
-**Tool Consolidation:** Consolidated from 10+ experimental AI tools to 3 primary platforms (GitHub Copilot, Claude, OpenAI) after 2 months, eliminating confusion and establishing clear usage patterns.
-
-**Security-First AI Implementation:** Built open-source secrets scanner as first major AI project, demonstrating AI could enhance rather than compromise security posture.
+- **Development Velocity:** 40% reduction in feature time-to-market (measured over 6-month period comparing Q3 2024 to Q1 2024)
+- **AI Adoption:** 60% daily AI tool usage (from 15% baseline, measured via internal survey of 16 engineers)
+- **Operational Overhead:** 60% reduction in repetitive task time across engineering teams (PR descriptions, commit messages, documentation)
+- **Engineering Culture:** Transformed mindset from "AI-curious" to "AI-native" across organization
 
 ## Challenges and Missteps
 
