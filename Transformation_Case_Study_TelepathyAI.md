@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-Rebuilt international engineering organization across Singapore and Zurich while managing challenging business dynamics between Telepathy.AI and its strategic customer, StellaAutomotive.com. Sunset a six-year proprietary conversational AI stack in favor of OpenAI-based LLM architecture. Achieved $500K annual cost savings, 99.9% uptime, and scaled from 120K to 340K calls per month across distributed 70-engineer workforce.
+Rebuilt international engineering organization across Singapore and Zurich while managing challenging business dynamics between Telepathy.AI and its strategic customer, StellaAutomotive.com. Achieved $500K annual cost savings, 99.9% uptime, and scaled from 120K to 340K calls per month across distributed 70-engineer workforce. Later sunset a six-year proprietary conversational AI stack in favor of OpenAI-based LLM architecture. 
 
 ## The Problem
 
