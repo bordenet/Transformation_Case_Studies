@@ -10,6 +10,7 @@ ACTION_PLAN_*.md
 EXECUTION_PLAN.md
 
 .env
+.env.*
 *.pem
 *.key
 *.p12
