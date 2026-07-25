@@ -25,9 +25,9 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 **Trust Building:** Became recognized technical voice across entire organization through consistent delivery and decision-making during leadership transitions.
 
 ### Cultural Transformation Framework
-**Leadership Principles Implementation:** Instituted Amazon Leadership Principles-inspired culture focusing on Ownership, Customer Centricity, and Delivering Results to replace feedback-avoidant environment.
+**Leadership Principles Implementation:** Instituted an ownership-and-accountability culture built on customer centricity and delivering results, replacing a feedback-avoidant environment.
 
-**Operational Excellence Program:** Created OE MVP program with weekly training and cross-team best-practices sharing, establishing cultural foundation for sustained performance improvement.
+**Operational Excellence Program:** Built the OE MVP program myself first, running the weekly training and cross-team best-practices sessions personally. Handed it off within six weeks once early participants were running sessions on their own, so the cultural foundation kept going without me at the front of the room.
 
 ### Regulatory Leadership Under Pressure
 **Compliance-First Transformation:** Maintained 100% regulatory compliance across SOC-2 Type II, FINRA, and FDIC requirements throughout organizational and technical transformation.
@@ -42,7 +42,7 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 **Cost Efficiency:** AWS costs reduced 45% despite ongoing growth (measured year-over-year); improved OpEx ratio from ~55% to 30% of revenue through cost discipline and operational efficiency.
 
-**Team Transformation:** Built fungible backend engineering team (40 engineers) with full ownership including on-call and deployments, eliminating technical fragmentation through Go language standardization.
+**Team Transformation:** Mandated Go as the standard language myself; the team executed the migration and built a fungible backend engineering team (40 engineers) with full ownership including on-call and deployments.
 
 **Design System Completion:** Increased coverage from 70% to functional completion (95%+ coverage), reducing feature implementation costs and accelerating UI development. The Principal Engineer who had been a flight risk led this effort and was promoted to Staff Engineer.
 
@@ -52,7 +52,7 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 **Talent Strategy:** Made difficult but necessary decision to reduce overall headcount by 50% while retaining and promoting high-potential internal talent, creating sustainable organizational structure.
 
-**Technology Consolidation:** Eliminated technical fragmentation through language standardization (mandated Go) and architectural decisions, creating fungible engineering teams with full ownership accountability.
+**Technology Consolidation:** Standardized on Go over the mixed Ruby/Go/Scala/Java stack as a unilateral technical call; the team drove the migration and the architectural decisions that followed, creating fungible engineering teams with full ownership accountability.
 
 **Leadership Infrastructure:** Hired Engineering Director partner and rebuilt leadership structure to support sustainable growth while maintaining hands-on technical credibility during transition.
 
@@ -66,7 +66,7 @@ Rebuilt engineering culture and platform reliability for 220-engineer fintech se
 
 ## Business Impact
 
-**Mission-Critical Service Delivery:** Enabled reliable financial services platform for 2M+ underbanked Americans managing their financial futures, requiring heightened reliability and security standards beyond typical SaaS applications.
+**Stakes for Underbanked Users:** Enabled a reliable financial services platform for 2M+ underbanked Americans, for many of whom Stash functioned as their primary bank account. An OAuth lockout wasn't a minor inconvenience: it meant losing access to their own money.
 
 **Cost Structure Optimization:** Improved OpEx ratio from ~55% to 30% of revenue through cost discipline and operational efficiency, creating sustainable business model foundation.
 

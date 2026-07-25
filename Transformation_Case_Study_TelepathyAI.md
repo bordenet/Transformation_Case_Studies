@@ -27,11 +27,13 @@ Rebuilt international engineering organization across Singapore and Zurich while
 **Geographic Rationalization:** After key Zurich leadership departed, CEO reduced the office to six scientists and researchers. We needed fungible engineers, not niche research expertise. I took ownership of the remaining team for a quarter to assess fit, then made the decision to close the Zurich operation and consolidate around Singapore.
 
 ### Technology Leadership
-**Proprietary Technology Sunset:** Led decisive pivot from six-year proprietary conversational AI stack to OpenAI-based solutions. Spent my final 3 months trying to salvage it before accepting the market had moved past us. This was a tough call given the sunk costs, but market positioning demanded it.
+**Proprietary Technology Sunset:** Led decisive pivot from six-year proprietary conversational AI stack to OpenAI-based solutions. Led a small team through a final 3-month effort to salvage the proprietary stack before accepting the market had moved past us. Tough call given the sunk costs, but market positioning demanded it.
 
 **AI-First Transformation:** Worked with the team to establish AI-native engineering workflows across organization, repositioning engineering capabilities around modern LLM integration rather than legacy proprietary technology.
 
 ### Complex Stakeholder Management
+**Platform as Product:** Ran the SaaS platform underlying StellaAutomotive's dealership operations as a product, with StellaAutomotive as the customer. As the relationship matured, StellaAutomotive's own engineers became my direct technical counterparts on integration and platform work, not just a business relationship mediated through account management.
+
 **Business Relationship Navigation:** Maintained engineering excellence and team morale despite challenging business dynamics between Telepathy.AI and StellaAutomotive, insulating technical teams from organizational turbulence.
 
 **Resource Optimization:** Achieved cost reduction and operational efficiency improvements despite constrained business environment and competing organizational priorities.
@@ -42,7 +44,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Cost Optimization:** AWS costs reduced 50% from $120K to $60K monthly ($500K annual savings) carried through to Azure migration; Datadog costs reduced 66% (from $18K to $6K monthly); software licenses reduced 79%.
 
-**Infrastructure Simplification:** Consolidated 30 Kubernetes clusters to 6 (3 per Azure Tenant), achieving 80% reduction in operational complexity with seamless AWS-to-Azure migration (3.5 months) maintaining zero customer impact.
+**Infrastructure Simplification:** Consolidated 30 Kubernetes clusters to 6 (3 per Azure Tenant), an 80% reduction in operational complexity, and completed the AWS-to-Azure migration in 3.5 months with zero customer impact.
 
 **Velocity Acceleration:** Deployment cycles reduced from 1 month to 2 weeks (50% improvement); platform teams took ownership of QA testing, enabling agile practices adoption.
 
@@ -72,7 +74,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Research vs. Applied Engineering Culture:** Unable to find harmonious balance between research/science culture and applied engineering requirements. While Singapore embraced accountability, ownership, and transparent incident response, research-oriented teams operated with different expectations around operational excellence. Scientists/researchers not fully committed to engineering excellence, transparency, feedback from the broader company, and continuous operational improvement should not write production code. If you build code, you go on call for it, or the company will be placed at great risk. We eventually learned that rebooting the AI backend nightly eliminated 90% of our operational problems, a clear signal of fundamental engineering quality issues.
 
-**Proprietary LLM Sunk Cost:** Spent 3 months trying to salvage six-year proprietary conversational AI technology before accepting that the market had moved past us. Delaying the sunset decision cost us competitive positioning and team morale.
+**Proprietary LLM Sunk Cost:** Led a 3-month effort to salvage six-year proprietary conversational AI technology before accepting that the market had moved past us. Delaying the sunset decision cost us competitive positioning and team morale.
 
 ## What I Learned
 

@@ -39,7 +39,7 @@ Built AI-first engineering culture across 70-person organization over 12 months.
 
 ## Challenges and Missteps
 
-**Initial Resistance:** First attempts at AI tool adoption faced skepticism from senior engineers who viewed AI-generated code as "cheating" or unreliable. Required 1-on-1 conversations and live demonstrations to shift mindset.
+**Initial Resistance:** First attempts at AI tool adoption faced skepticism from senior engineers who viewed AI-generated code as "cheating" or unreliable. Paired with a handful of early-adopter engineers to build working proof points first, then evangelized those wins across the org rather than trying to argue every skeptic into agreement one at a time.
 
 **Tool Sprawl:** Early phase saw engineers experimenting with 10+ different AI tools simultaneously, creating confusion about which tools to use for which tasks. Consolidated to 3 primary tools (GitHub Copilot, Claude, OpenAI) after 2 months.
 

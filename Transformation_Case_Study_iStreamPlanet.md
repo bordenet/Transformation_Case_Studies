@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-Rebuilt fragile early-stage streaming platform into enterprise-grade solution. Transformed technical architecture, organizational culture, and operational excellence across 35-engineer organization while scaling from dozens to hundreds of live events monthly and achieving 99.99% uptime. Platform was selected as go-forward technology for Warner Bros. Discovery acquisition.
+Rebuilt a fragile early-stage streaming platform into the infrastructure behind live sports broadcasts including March Madness and the Super Bowl, where a dropped stream has no do-over and airs to a national audience in real time. Transformed technical architecture, organizational culture, and operational excellence across a 35-engineer organization while scaling from dozens to hundreds of live events monthly and achieving 99.99% uptime. Platform was selected as go-forward technology for Warner Bros. Discovery acquisition.
 
 ## The Problem
 
@@ -27,7 +27,7 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 ### Organizational Culture Transformation
 **Talent Strategy:** Made difficult decision to rehire ~50% of engineering organization with external talent, establishing operational excellence culture while elevating operations team to first-class citizenship.
 
-**Ownership Culture:** Implemented formal on-call rotations with documented expectations, building accountability for platform reliability across engineering teams. Took 3 months and significant coaching to make this stick.
+**Ownership Culture:** Replaced the centralized Broadcast Operations Center model with standardized on-call rotations and documented expectations pushed out to each engineering team, so accountability for platform reliability sat with the people building the service rather than a separate ops function. Took 3 months and significant coaching to make it stick.
 
 ### Market Positioning
 **Competitive Openness:** Despite Turner majority ownership, built platform to serve entire market including direct competitors, demonstrating platform thinking over narrow customer focus.
@@ -54,11 +54,11 @@ Rebuilt fragile early-stage streaming platform into enterprise-grade solution. T
 
 ## The Acquisition
 
-**Technical Due Diligence:** Platform architecture and operational maturity proved acquisition-worthy, demonstrating enterprise-grade reliability and scalability for Warner Bros. Discovery integration.
+**Technical Due Diligence:** Platform architecture and operational maturity proved acquisition-worthy, demonstrating reliability and scalability already proven at March Madness, NBA League Pass, and Olympics scale.
 
 **Selection:** Warner Bros. Discovery chose the platform as go-forward technology for all channels post-acquisition, validating transformation investment and technical decisions.
 
-**Operational Continuity:** Seamless integration maintained production operations across all customer channels while establishing foundation for WBD's unified live streaming infrastructure.
+**Operational Continuity:** Integration maintained production operations across all customer channels while establishing the foundation for WBD's unified live streaming infrastructure.
 
 ## Impact
 
