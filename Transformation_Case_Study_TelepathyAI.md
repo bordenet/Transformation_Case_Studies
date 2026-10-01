@@ -42,7 +42,7 @@ Rebuilt international engineering organization across Singapore and Zurich while
 
 **Reliability Transformation:** Improved platform uptime from ~90% to 99.9% (measured over 6-month period) through SLI/SLO implementation and continuous improvement processes; eliminated Monday service degradation via predictive fleet scaling.
 
-**Cost Optimization:** AWS costs reduced 50% from $120K to $60K monthly ($500K annual savings) carried through to Azure migration; Datadog costs reduced 66% (from $18K to $6K monthly); software licenses reduced 79%.
+**Cost Optimization:** AWS costs reduced ~33% from ~$120K to ~$80K monthly (~$480K annualized) carried through to Azure migration; Datadog costs reduced 66% (from $18K to $6K monthly); software licenses reduced 79%.
 
 **Infrastructure Simplification:** Consolidated 30 Kubernetes clusters to 6 (3 per Azure Tenant), an 80% reduction in operational complexity, and completed the AWS-to-Azure migration in 3.5 months with zero customer impact.
 
