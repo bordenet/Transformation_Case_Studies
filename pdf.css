@@ -1,0 +1,4 @@
+@page { size: Letter; margin: 0.8in; }
+body { font-family: Helvetica, Arial, sans-serif; font-size: 10.5pt; line-height: 1.4; color: #111; }
+h1 { font-size: 18pt; margin-bottom: 4pt; } h2 { font-size: 13pt; margin-top: 14pt; border-bottom: 1px solid #ccc; padding-bottom: 2pt; }
+h3 { font-size: 11pt; margin-top: 10pt; } a { color: #1a4a8a; text-decoration: none; } blockquote { margin-left: 0; padding-left: 10pt; border-left: 3px solid #ccc; color: #444; }
